@@ -1,7 +1,3 @@
-# first-try
-
-# Just a dummy file to practice with.
-
-## Let's see what this does
+# first-try.  Looks like markdown notation.
 
 Some description!
